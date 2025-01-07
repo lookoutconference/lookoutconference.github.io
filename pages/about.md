@@ -12,7 +12,7 @@ permalink: "/about/"
 
 **Conference organizers:** Michael Decker (Collage of Graduate Studies), Andrea Alberto Dutto (Collage of Art and Architecture)
 
-**Conference board:** Gary Weber, tbd.
+**Conference board:** Gary Weber, Michael Decker, Andrea Dutto, Allison Ginn.
 
 **Dates:** May 12–13, 2025
 
@@ -21,9 +21,9 @@ permalink: "/about/"
 
 ## **Important Dates**
 
-*Abstract Submission Deadline*: 03/01/2024
+*Abstract Submission Deadline*: 03/15/2024
 
-*Abstract* Acceptance\*: 03/20/2024
+*Abstract* Acceptance\*: 03/25/2024
 
 *Presentation Upload*: 5/08/2024
 
