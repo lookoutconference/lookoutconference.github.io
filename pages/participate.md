@@ -48,4 +48,4 @@ Attend full conference events, paper presentations and panel discussions on Frid
 
 Cost: $50 (includes full conference access, parking, and lunch each day)
 
-[Register as an atendee here](../join/){: .btn .btn--info .btn--large}
+[Register as an attendee here](../join/){: .btn .btn--info .btn--large}
