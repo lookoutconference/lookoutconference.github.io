@@ -23,7 +23,7 @@ permalink: "/about/"
 
 *Abstract Submission Deadline*: 03/15/2024
 
-*Abstract* Acceptance\*: 03/25/2024
+*Abstract Acceptance*: 03/25/2024
 
 *Presentation Upload*: 5/08/2024
 
