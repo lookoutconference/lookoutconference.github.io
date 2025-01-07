@@ -2,10 +2,10 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Participate"
-    url: /participate/
   - title: "Theme"
     url: /theme/  
+  - title: "Participate"
+    url: /participate/
   - title: "Join Us"
     url: /join/
   
