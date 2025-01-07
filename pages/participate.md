@@ -19,7 +19,7 @@ There are a number of ways you can participate in NILC 2025\.
 
 **1\) Project Presentation**
 
-Project/Short Presentation/Short Paper:   
+Project or Short Paper:   
 15-20 minute presentation
 
 In the spirit of interdisciplinarity, we welcome submissions from a broad range of disciplines, including natural resources professionals, fire managers, current and former fire lookouts, GIS experts, humanities scholars, architects, and civil engineers related to the theme *“The Past and Future of Fire Lookouts.”* Project, do not need to be specifically related to fire lookouts. A broad range of technologies have either augmented or replaced fire lookouts, and we are excited to host presentations on any of the above areas of research. 
