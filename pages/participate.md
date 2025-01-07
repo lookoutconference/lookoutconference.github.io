@@ -17,7 +17,7 @@ permalink: "/participate/"
 
 There are a number of ways you can participate in NILC 2025\.
 
-**1\) Project Presentation**
+**1\) Present at NILC**
 
 Project or Short Paper:   
 15-20 minute presentation
