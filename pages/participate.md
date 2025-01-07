@@ -44,4 +44,4 @@ Full Conference Access
 
 Attend full conference events, paper presentations and panel discussions on Friday and Saturday, keynote speaker on Friday evening, and closing reception and dinner on Saturday. This is a great conference to get to know others working in the field of Fire Lookouts.
 
-[Join Us on the Palouse!](../join/){: .btn .btn--info .btn--large}
+[Register as an atendee here!](../join/){: .btn .btn--info .btn--large}
