@@ -37,6 +37,7 @@ In the spirit of interdisciplinarity, we welcome submissions from a broad range 
 * Specify whether your research focuses on the history, future, or both of these aspects of fire lookouts.
 
 * Highlight the innovative elements of your work, particularly if it envisions new directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy which may include forestry, GIS, environmental science, natural resource conservation and more!
+[Submit your abstract here!](../join/){: .btn .btn--info .btn--large}
 
 **2\) Come as an Attendee**
 
@@ -44,4 +45,4 @@ Full Conference Access
 
 Attend full conference events, paper presentations and panel discussions on Friday and Saturday, keynote speaker on Friday evening, and closing reception and dinner on Saturday. This is a great conference to get to know others working in the field of Fire Lookouts.
 
-[Register as an atendee here!](../join/){: .btn .btn--info .btn--large}
+[Register as an atendee here](../join/){: .btn .btn--info .btn--large}
