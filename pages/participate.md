@@ -38,7 +38,7 @@ In the spirit of interdisciplinarity, we welcome submissions from a broad range 
 
 * Highlight the innovative elements of your work, particularly if it envisions new directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy which may include forestry, GIS, environmental science, natural resource conservation and more!
 
-[Submit your abstract here!](../join/){: .btn .btn--info .btn--large}
+[Submit your abstract here](../join/){: .btn .btn--info .btn--large}
 
 **2\) Come as an Attendee**
 
