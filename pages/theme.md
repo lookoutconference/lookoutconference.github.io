@@ -14,7 +14,7 @@ permalink: "theme/"
 
 ## **Conference Themes and Subthemes**
 
-(new directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy)
+New directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy. 
 
 This year’s theme, *“The Past and Future of Fire Lookouts,”* focuses on exploring both the history and the evolving role of fire lookout towers and content adjacent to fire lookout towers. Our aim is to bring together diverse perspectives to shape the future of fire lookout towers, which remain integral to fire management policies in Idaho and across the American West. Presentations should be submitted under one of three themes: 
 
