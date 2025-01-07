@@ -19,10 +19,10 @@ There are a number of ways you can participate in NILC 2025\.
 
 **1\) Project Presentation**
 
-Project/Photo Essay/Short Paper:   
+Project/Short Presentation/Short Paper:   
 15-20 minute presentation
 
-In the spirit of interdisciplinarity, we welcome submissions from a broad range of disciplines, including natural resources professionals, fire managers, current and former fire lookouts, GIS experts, humanities scholars, architects, and civil engineers related to the theme *“The Past and Future of Fire Lookouts.”*
+In the spirit of interdisciplinarity, we welcome submissions from a broad range of disciplines, including natural resources professionals, fire managers, current and former fire lookouts, GIS experts, humanities scholars, architects, and civil engineers related to the theme *“The Past and Future of Fire Lookouts.”* Project, do not need to be specifically related to fire lookouts. A broad range of technologies have either augmented or replaced fire lookouts, and we are excited to host presentations on any of the above areas of research. 
 
 *Papers* delve into more comprehensive investigations, emphasizing complete versions of ideas or developed research. \- A paper abstract is at most 500 words, excluding references, and may include up to five images. 
 
@@ -36,7 +36,7 @@ In the spirit of interdisciplinarity, we welcome submissions from a broad range 
 
 * Specify whether your research focuses on the history, future, or both of these aspects of fire lookouts.
 
-* Highlight the innovative elements of your work, particularly if it envisions new directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy.
+* Highlight the innovative elements of your work, particularly if it envisions new directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy which may include forestry, GIS, environmental science, natural resource conservation and more!
 
 **2\) Come as an Attendee**
 
