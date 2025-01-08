@@ -10,7 +10,7 @@ permalink: "/about/"
 ---
 # About
 
-**Conference organizers:** Michael Decker (Collage of Graduate Studies), Andrea Alberto Dutto (Collage of Art and Architecture)
+**Conference organizers:** Michael Decker (College of Graduate Studies), Andrea Alberto Dutto (College of Art and Architecture)
 
 **Conference board:** Gary Weber, Michael Decker, Andrea Dutto, Allison Ginn.
 
