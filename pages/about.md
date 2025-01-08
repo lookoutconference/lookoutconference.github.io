@@ -10,9 +10,21 @@ permalink: "/about/"
 ---
 # About
 
-**Conference organizers:** Michael Decker (College of Graduate Studies), Andrea Alberto Dutto (College of Art and Architecture)
+**Conference organizers:** 
 
-**Conference board:** Gary Weber (Forest Fire Lookout Association), Michael Decker (U of I), Andrea Dutto (U of I), Allison Ginn (United States Forest Service).
+Michael Decker (College of Graduate Studies) 
+
+Andrea Alberto Dutto (College of Art and Architecture)
+
+**Conference board:** 
+
+Gary Weber (Forest Fire Lookout Association) 
+
+Michael Decker (U of I) 
+
+Andrea Dutto (U of I) 
+
+Allison Ginn (United States Forest Service).
 
 **Dates:** May 12–13, 2025
 
