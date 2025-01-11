@@ -2,8 +2,8 @@
 main:
   - title: "About"
     url: /about/
-  - title: "Theme"
-    url: /themes/  
+  - title: "Themes"
+    url: /theme/  
   - title: "Attend"
     url: /participate/
   - title: "Location/Lodging"
