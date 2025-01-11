@@ -12,9 +12,9 @@ permalink: "/about/"
 
 **Conference organizers:** 
 
-Michael Decker (College of Graduate Studies) 
+<a href="https://www.uidaho.edu/news/feature-stories/fire-lookouts">Michael Decker</a> (College of Graduate Studies) 
 
-Andrea Alberto Dutto (College of Art and Architecture)
+<a href="https://www.uidaho.edu/caa/programs/architecture/ourpeople/andrea-dutto">Andrea Alberto Dutto</a> (College of Art and Architecture)
 
 **Conference board:** 
 
