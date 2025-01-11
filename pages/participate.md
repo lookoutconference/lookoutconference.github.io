@@ -37,6 +37,7 @@ In the spirit of interdisciplinarity, we welcome submissions from a broad range 
 * Specify whether your research focuses on the history, future, or both of these aspects of fire lookouts.
 
 * Highlight the innovative elements of your work, particularly if it envisions new directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy which may include forestry, GIS, environmental science, natural resource conservation and more!
+* We will publish a proceedings index to offer free access to NILC presentation and papers. Please contact NILC to reuse any material found in the conference proceedings index. 
 
 [Submit your abstract](../join/){: .btn .btn--info .btn--large}
 
