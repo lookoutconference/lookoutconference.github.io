@@ -39,8 +39,6 @@ Allison Ginn (United States Forest Service)
 
 *Presentation Upload*: 4/15/2024
 
-Please direct questions to mdecker@uidaho.edu. 
-
 ## **About the Conference/Theme**
 
 The National Interdisciplinary Lookout Conference (NILC) invites abstracts and proposals for its inaugural conference. This year’s theme, *“The Past and Future of Fire Lookouts,”* focuses on exploring both the history and the evolving role of fire lookout towers and content adjacent to fire lookout towers.
