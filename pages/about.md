@@ -22,9 +22,9 @@ Gary Weber (Forest Fire Lookout Association)
 
 Michael Decker (U of I) 
 
-Andrea Dutto (U of I) 
+Andrea Alberto Dutto (U of I) 
 
-Allison Ginn (United States Forest Service).
+Allison Ginn (United States Forest Service)
 
 **Dates:** May 12–13, 2025
 
@@ -37,9 +37,9 @@ Allison Ginn (United States Forest Service).
 
 *Abstract Acceptance*: 03/25/2024
 
-*Presentation Upload*: 5/08/2024
+*Presentation Upload*: 4/15/2024
 
-
+Please direct questions to mdecker@uidaho.edu. 
 
 ## **About the Conference/Theme**
 
