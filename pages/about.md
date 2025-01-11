@@ -49,5 +49,7 @@ In the spirit of interdisciplinarity, we welcome submissions from a broad range 
 
 The conference will take place May 12-13, 2025, at the University of Idaho in Moscow, Idaho. Once home to more active fire lookouts than any other state—and therefore the world—Idaho is a fitting location for NILC ‘25. Our aim is to bring together different perspectives and disciplines to shape the future of fire lookout towers, which remain integral to fire management policies in Idaho and across the American West.  
 
+**A full conference schedule will be posted in March once presentation submissions are finalized.** 
+
 [More on the Conference Theme](../theme/){: .btn .btn--info .btn--large}
 
