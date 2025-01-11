@@ -6,7 +6,7 @@ header:
   overlay_filter: "0.2"
   overlay_image: /assets/images/chicken-peak.png
   actions:
-  - label: "Be a Part of the Conference"
+  - label: "Present or attend as a guest"
     url: "participate/"
 excerpt: "2025 Theme: The Past and Future of Fire Lookouts"
 permalink: "theme/"
