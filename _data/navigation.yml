@@ -8,6 +8,8 @@ main:
     url: /participate/
   - title: "Location/Lodging"
     url: /join/
+  - title: "Proceedings"
+    url: /proceedings/
   
   # - title: "Sample Collections"
   #   url: /collection-archive/
