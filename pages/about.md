@@ -14,7 +14,7 @@ permalink: "/about/"
 
 <a href="https://www.uidaho.edu/news/feature-stories/fire-lookouts" target="_blank">Michael Decker</a> (College of Graduate Studies) 
 
-<a href="https://www.uidaho.edu/caa/programs/architecture/ourpeople/andrea-dutto" target="_blank">Andrea Alberto Dutto </a> (College of Art and Architecture)
+<a href="https://www.uidaho.edu/caa/programs/architecture/ourpeople/andrea-dutto" target="_blank">Andrea Alberto Dutto</a> (College of Art and Architecture)
 
 **Conference board:** 
 
@@ -28,7 +28,7 @@ Allison Ginn (United States Forest Service)
 
 **Dates:** April 18-19, 2025
 
-**Location:** Moscow, Idaho, on the University of Idaho Campus
+**Location:** University of Idaho, Moscow Campus
 
 
 ## **Important Dates**
