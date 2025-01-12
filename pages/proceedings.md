@@ -13,10 +13,6 @@ excerpt: "All contributions will be made available online"
 permalink: "/proceedings/"
 ---
 
-# **PROCEEDINGS**
+# **PROCEEDINGS 2025: The Past and Future of Fire Lookouts**
 
 ...\.
-
-**1\) Proceedings 2025**
-
-...]
