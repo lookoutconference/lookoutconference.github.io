@@ -37,8 +37,8 @@ search_full_content      : true
 author:
   name             : "National Interdisciplinary Lookout Conference (NILC)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "A Conference that Looks Out on Lookouts"
-  location         : "Moscow, Idaho"
+  bio              : "The First National Conference on Lookouts"
+  location         : "hosted by the University of Idaho"
   email            :
   links:
     - label: "Email"
