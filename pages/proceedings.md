@@ -15,7 +15,7 @@ permalink: "/proceedings/"
 
 # **PROCEEDINGS**
 
-\.
+
 
 **NILC 2025: The Past and Future of Fire Lookouts**
 
