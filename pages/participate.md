@@ -24,6 +24,9 @@ Project or Short Paper:
 
 In the spirit of interdisciplinarity, we welcome submissions from a broad range of disciplines, including natural resources professionals, fire managers, current and former fire lookouts, GIS experts, humanities scholars, architects, and civil engineers related to the theme *“The Past and Future of Fire Lookouts.”* Project, do not need to be specifically related to fire lookouts. A broad range of technologies have either augmented or replaced fire lookouts, and we are excited to host presentations on any of the above areas of research. 
 
+We encourage papers and presentations from both academic and non-academic fields. In addition to the disciplines above, we recognize that great work is being done outside of these spaces. We welcome passion projects, which are often the heartbeat of the fire lookout community. This includes individuals who have worked to preserve fire lookouts through photo or video collections, public media projects (such as podcasts), and restoration / preservation work of all kinds!
+
+
 *Papers* delve into more comprehensive investigations, emphasizing complete versions of ideas or developed research. \- A paper abstract is at most 500 words, excluding references, and may include up to five images. 
 
 *Projects* introduce first versions, photo essays, or initial research. \- A project abstract is at most 350 words, excluding references, and may include a maximum of ten images.
