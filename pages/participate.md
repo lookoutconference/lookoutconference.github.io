@@ -52,4 +52,4 @@ Attend full conference events, paper presentations and panel discussions on Frid
 
 Cost: $50 (includes full conference access, parking, and lunch each day)
 
-[Register as an attendee](../join/){: .btn .btn--info .btn--large}
+[Register as an attendee](https://futurevandals.uidaho.edu/register/?id=48aaed48-97d9-447e-8c42-132902fb382c){: .btn .btn--info .btn--large}
