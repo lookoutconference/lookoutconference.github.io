@@ -39,14 +39,14 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "The First National Conference on Fire Lookouts"
   location         : "Hosted by the University of Idaho"
-  email            :
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://firelookout.github.io"
+    # label: "Website"
+      #icon: "fas fa-fw fa-link"
+      #url: "https://firelookout.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
