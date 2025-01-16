@@ -48,7 +48,7 @@ We encourage papers and presentations from both academic and non-academic fields
 
 Full Conference Access
 
-Attend full conference events, paper presentations and panel discussions on Friday and Saturday, keynote speaker on Friday evening, and closing reception and dinner on Saturday. This is a great conference to get to know others working in the field of Fire Lookouts.
+Attend full conference events, paper presentations and panel discussions on Friday and Saturday, keynote speaker on Saturday evening, and closing lunch on Sunday. This is a great conference to get to know others working in the field of Fire Lookouts.
 
 Cost: $50 (includes full conference access, parking, and lunch each day)
 
