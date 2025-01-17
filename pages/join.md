@@ -14,7 +14,7 @@ permalink: "/join/"
 
 ## **Location**
 
-The National Interdisciplinary Lookout Conference (NILC) is hosted by the University of Idaho in Moscow, ID. 
+The National Interdisciplinary Lookout Conference (NILC) is hosted by the University of Idaho in Moscow, ID. For those traveling from far away, and who may need lodging, please see the options below. 
 
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d39650.56838366694!2d-117.04216836732195!3d46.734889626411075!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54a0212d22c061d1%3A0x3efd150de6eaad6c!2sMoscow%2C%20ID!5e1!3m2!1sen!2sus!4v1736269428602!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 
