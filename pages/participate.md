@@ -24,12 +24,12 @@ Project or Short Paper:
 
 In the spirit of interdisciplinarity, we welcome submissions from a broad range of disciplines, including natural resources professionals, fire managers, current and former fire lookouts, GIS experts, humanities scholars, architects, and civil engineers related to the theme *“The Past and Future of Fire Lookouts.”* Project, do not need to be specifically related to fire lookouts. A broad range of technologies have either augmented or replaced fire lookouts, and we are excited to host presentations on any of the above areas of research. 
 
-We encourage papers and presentations from both academic and non-academic fields. In addition to the disciplines above, we recognize that great work is being done outside of these spaces. We welcome passion projects, which are often the heartbeat of the fire lookout community. This includes individuals who have worked to preserve fire lookouts through photo or video collections, public media projects (such as podcasts), and restoration / preservation work of all kinds!
+We encourage papers and presentations from both academic and non-academic fields. In addition to the disciplines above, we recognize that great work is being done outside of these spaces. We welcome passion projects, which are often the heartbeat of the fire lookout community. This includes projects to preserve fire lookouts through photo or video collections, public media projects (such as podcasts), and restoration / preservation work of all kinds!
 
 
 *Papers* delve into more comprehensive investigations, emphasizing complete versions of ideas or developed research. \- A paper abstract is at most 500 words, excluding references, and may include up to five images. 
 
-*Projects* introduce first versions, photo essays, or initial research. \- A project abstract is at most 350 words, excluding references, and may include a maximum of ten images.
+*Projects* introduce first versions, photo or video essays / documentation, or initial research, public-facing media, and more. \- A project abstract is at most 350 words, excluding references, and may include a maximum of ten images.
 
 *Abstracts should include the following:*
 
@@ -48,8 +48,8 @@ We encourage papers and presentations from both academic and non-academic fields
 
 Full Conference Access
 
-Attend full conference events, paper presentations and panel discussions on Friday and Saturday, keynote speaker on Saturday evening, and closing lunch on Sunday. This is a great conference to get to know others working in the field of Fire Lookouts.
+Attend full conference events, paper presentations, and panel discussions on Friday and Saturday, keynote speaker and dinner on Saturday evening. This is a great conference to get to know others working in the field of Fire Lookouts.
 
-Cost: $50 (includes full conference access, parking, and lunch each day)
+Cost: $50 (includes full conference access, lunch, and dinner)
 
 [Register as an attendee](https://futurevandals.uidaho.edu/register/?id=48aaed48-97d9-447e-8c42-132902fb382c){: .btn .btn--info .btn--large}
