@@ -26,6 +26,10 @@ Andrea Alberto Dutto (U of I)
 
 Allison Ginn (United States Forest Service)
 
+Billy Cooter (Idaho Fire Lookouts)
+
+Cat House (Idaho Fire Lookouts)
+
 **Dates:** April 19-20, 2025
 
 **Location:** University of Idaho, Moscow Campus
@@ -45,7 +49,9 @@ The National Interdisciplinary Lookout Conference (NILC) invites abstracts and p
 
 In the spirit of interdisciplinarity, we welcome submissions from a broad range of disciplines, including natural resources professionals, fire managers, current and former fire lookouts, GIS experts, humanities scholars, architects, and civil engineers. We will host two days of talks and art exhibitions related to these topics. 
 
-The conference will take place April 19-20, 2025, at the University of Idaho in Moscow, Idaho. Once home to more active fire lookouts than any other state—and therefore the world—Idaho is a fitting location for NILC ‘25. Our aim is to bring together different perspectives and disciplines to shape the future of fire lookout towers, which remain integral to fire management policies in Idaho and across the American West.  
+The conference will take place April 19, 2025, at the University of Idaho in Moscow, Idaho. Once home to more active fire lookouts than any other state—and therefore the world—Idaho is a fitting location for NILC ‘25. Our aim is to bring together different perspectives and disciplines to shape the future of fire lookout towers, which remain integral to fire management policies in Idaho and across the American West.  
+
+NILC '25 will include talks from staples of the lookout community such as Gary Weber from the Forest Fire Lookout Association, and Billy Cooter and Cat House, who are some of the most prolific documentarians of Idaho fire lookouts active today. 
 
 **A full conference schedule will be posted in late-March once presentation submissions are finalized.** 
 
