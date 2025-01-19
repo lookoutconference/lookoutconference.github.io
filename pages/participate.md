@@ -42,7 +42,7 @@ We encourage papers and presentations from both academic and non-academic fields
 * Highlight the innovative elements of your work, particularly if it envisions new directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy which may include forestry, GIS, environmental science, natural resource conservation and more!
 * We will publish a proceedings index to offer free access to NILC presentation and papers. Please contact NILC to reuse any material found in the conference proceedings index. 
 
-[Submit your abstract](../join/){: .btn .btn--info .btn--large}
+[Abstracts will be available to submit in late-Janurary](https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943){: .btn .btn--info .btn--large}
 
 **2\) Come as an Attendee**
 
