@@ -20,4 +20,4 @@ permalink: "/proceedings/"
 **NILC 2025: The Past and Future of Fire Lookouts**
 
 The papers presented at NILC 2025 will be collected in this section, in the form of peer-reviewed abstracts, as well as compiled into a digital publication marked with an ISBN code. 
-The video recordings of the keynote speakers will be made available as multimedia files marked with a DOI code.\.
+The video recordings of the keynote speakers will be made available as multimedia files marked with a DOI code\.
