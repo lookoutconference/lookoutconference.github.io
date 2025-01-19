@@ -43,7 +43,7 @@ Cat House (Idaho Fire Lookouts)
 
 *Presentation Upload*: 4/15/2024
 
-[We encourage you to submit any questions about presenting or attending here]([https://futurevandals.uidaho.edu/register/?id=48aaed48-97d9-447e-8c42-132902fb382c](https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943)){: .btn .btn--info .btn--large}
+[We encourage you to submit any questions about presenting or attending here]((https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943)){: .btn .btn--info .btn--large}
 
 ## **About the Conference/Theme**
 
