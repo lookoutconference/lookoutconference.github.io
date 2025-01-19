@@ -29,9 +29,9 @@ The fire tower is an umbrella subject that can fit many different areas of exper
 We encourage papers and presentations from both academic and non-academic fields. In addition to the disciplines above, we recognize that great work is being done outside of these spaces. We welcome passion projects, which are often the heartbeat of the fire lookout community. This includes projects to preserve fire lookouts through photo or video collections, public media projects (such as podcasts), and restoration / preservation work of all kinds!
 
 
-*Papers* delve into more comprehensive investigations, emphasizing complete versions of ideas or developed research. \- A paper abstract is at most 500 words, excluding references, and may include up to five images. 
+*Papers* delve into more comprehensive investigations, emphasizing complete versions of ideas or developed research. A paper abstract is at most 500 words, excluding references, and may include up to five images. 
 
-*Projects* introduce first versions, photo or video essays / documentation, or initial research, public-facing media, and more. \- A project abstract is at most 350 words, excluding references, and may include a maximum of ten images.
+*Projects* introduce first versions, photo or video essays / documentation, or initial research, public-facing media, and more. A project abstract is at most 350 words, excluding references, and may include a maximum of ten images.
 
 *Abstracts should include the following:*
 
