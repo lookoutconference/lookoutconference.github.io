@@ -30,4 +30,4 @@ The lookout is both a structure and a person (also referred to as a “fire watc
 ***Lookout as lifestyle** 
 The fire lookout has given rise to a robust community of passionate enthusiasts. Many have created websites, historical projects, podcasts, YouTube chanels, and more about their relationship to fire lookouts. We encouarage those in the fire lookout community to submit abstracts for presentation. 
 
-Click <a href="https://lookoutconference.github.io/participate/">here</a> to participate or register as an attendee. 
+Click <a href="https://lookoutconference.github.io/participate/">here</a> to submit an abstract or register as an attendee. 
