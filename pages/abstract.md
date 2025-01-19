@@ -1,14 +1,20 @@
 ---
-layout: archive
+layout: splash
 author_profile: true
 header:
   overlay_color: "#000"
-  overlay_filter: "0.2"
-  overlay_image: /assets/images/stmarys.png
-excerpt: "The Past and Future of Fire Lookouts"
+  overlay_filter: "0.3"
+  overlay_image: /assets/images/kresekmusum.png
+  # cta_label: "University of Idaho Applicants"
+  # cta_url: "https://uidaho.co1.qualtrics.com/jfe/form/SV_eLQjthbshmz3bNz"
+  # cta2_label: "Washington State University Applicants"
+  # cta2_url: "https://wsu.co1.qualtrics.com/jfe/form/SV_07ioTAKauWCC2X3"
+excerpt: "We will make abstract submissions live in late-January"
 permalink: "/abstract/"
 ---
 
+# **ABSTRACTS**
+
 We will make abstract submissions live in late-January. 
 
-In the meantime, if you have questions, please contact conference director Michael Decker at mdecker@uidaho.edu  <a href="mailto:mdecker@uidaho.edu">mdecker@uidaho.edu</a></p>
+[In the meantime, if you have questions please submit them here: ](https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943){: .btn .btn--info .btn--large}
