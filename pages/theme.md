@@ -14,7 +14,7 @@ permalink: "theme/"
 
 ## **Conference Themes and Subthemes**
 
-New directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy. 
+New directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy and technology that has augmented or replaced fire lookouts. 
 
 This year’s theme, *“The Past and Future of Fire Lookouts,”* focuses on exploring both the history and the evolving role of fire lookout towers and content adjacent to fire lookout towers. Our aim is to bring together diverse perspectives to shape the future of fire lookout towers, which remain integral to fire management policies in Idaho and across the American West. Presentations should be submitted under one of three themes: 
 
@@ -27,4 +27,7 @@ This may include the architecture of the lookout, or the architectural typologiz
 ***Lookout as person***  
 The lookout is both a structure and a person (also referred to as a “fire watcher”). Papers that examine the lookout person may investigate the human relationship to space and place in the context of lookouts, the role of humans in the history of forest management and fire suppression, or the shifting role of the fire lookout or fire watcher. We also welcome research that examines the mythology of the human fire lookout. 
 
-Go to the "Participate" tab above to submit an abstract for presentation or to register as an attendee. 
+***Lookout as lifestyle** 
+The fire lookout has given rise to a robust community of passionate enthusiasts. Many have created websites, historical projects, podcasts, YouTube chanels, and more about their relationship to fire lookouts. We encouarage those in the fire lookout community to submit abstracts for presentation. 
+
+Click <a href="https://lookoutconference.github.io/participate/">here</a> to participate or register as an attendee. 
