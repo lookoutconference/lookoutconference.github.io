@@ -28,6 +28,7 @@ This may include the architecture of the lookout, or the architectural typologiz
 The lookout is both a structure and a person (also referred to as a “fire watcher”). Papers that examine the lookout person may investigate the human relationship to space and place in the context of lookouts, the role of humans in the history of forest management and fire suppression, or the shifting role of the fire lookout or fire watcher. We also welcome research that examines the mythology of the human fire lookout. 
 
 ***Lookout as lifestyle*** 
+
 The fire lookout has given rise to a robust community of passionate enthusiasts. Many have created websites, historical projects, podcasts, YouTube chanels, and more about their relationship to fire lookouts. We encouarage those in the fire lookout community to submit abstracts for presentation. 
 
 Click <a href="https://lookoutconference.github.io/participate/">here</a> to submit an abstract or register as an attendee. 
