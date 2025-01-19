@@ -17,4 +17,4 @@ permalink: "/abstract/"
 
 We will make abstract submissions live in late-January. 
 
-[In the meantime, if you have questions please submit them here: ](https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943){: .btn .btn--info .btn--large}
+[In the meantime, if you have questions please submit them here](https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943){: .btn .btn--info .btn--large}
