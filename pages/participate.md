@@ -19,6 +19,8 @@ There are a number of ways you can participate in NILC 2025\.
 
 **1\) Present at NILC**
 
+Note: abstract submissions will become available in late-January. 
+
 Project or Short Paper:   
 15-20 minute presentation
 
