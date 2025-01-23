@@ -55,4 +55,6 @@ Attend full conference events, paper presentations, and panel discussions on Fri
 
 Cost: $50 (includes full conference access, lunch, and dinner)
 
+All members of the University of Idaho community, including students, employees, and faculty, may attend the conference at no cost.
+
 [Register as an attendee](https://futurevandals.uidaho.edu/register/?id=48aaed48-97d9-447e-8c42-132902fb382c){: .btn .btn--info .btn--large}

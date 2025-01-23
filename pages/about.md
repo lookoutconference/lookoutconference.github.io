@@ -30,6 +30,9 @@ Billy Cooter (Idaho Fire Lookouts)
 
 Cat House (Idaho Fire Lookouts)
 
+
+
+
 **Dates:** April 19, 2025
 
 **Location:** University of Idaho, Moscow Campus
