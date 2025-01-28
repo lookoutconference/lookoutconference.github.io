@@ -12,9 +12,9 @@ permalink: "/about/"
 
 **Conference organizers:** 
 
-<a href="https://www.uidaho.edu/news/feature-stories/fire-lookouts" target="_blank">Michael Decker</a> (College of Graduate Studies) 
+<a href="https://www.uidaho.edu/news/feature-stories/fire-lookouts" target="_blank">Michael Decker</a> (College of Graduate Studies - U of I) 
 
-<a href="https://www.uidaho.edu/caa/programs/architecture/ourpeople/andrea-dutto" target="_blank">Andrea Alberto Dutto</a> (College of Art and Architecture)
+<a href="https://www.uidaho.edu/caa/programs/architecture/ourpeople/andrea-dutto" target="_blank">Andrea Alberto Dutto</a> (College of Art and Architecture - U of I)
 
 **Conference board:** 
 
@@ -32,16 +32,16 @@ Cat House (Idaho Fire Lookouts)
 
 **Academic board:** 
 
-Devin Becker, Prof. (Associate Dean Research and Instruction – UofI Library)
+Devin Becker, Prof. (Library - U of I)
 
 Chris Lamb (Geography – Clarke University)
  <br>
  <br>
-Brandon Light, Ph.D. cand. (Forest Ecology – College of Natural Resources UofI)
+Brandon Light, Ph.D. cand. (Forest Ecology –  UofI)
 
 Jack Kredell, Ph.D. cand. (Environmental Science – UofI)
 
-Gabriele Orlandi, Ph.D. (Alpine Anthropology – University of Venice, IT)
+Gabriele Orlandi, Ph.D. (Alpine Anthropology – University of Venice)
 
 Connor Reakes (College of Art and Architecture student – 2025 AIAS President)
 
