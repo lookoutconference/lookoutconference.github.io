@@ -43,7 +43,7 @@ Jack Kredell, Ph.D. cand. (Environmental Science – University of Idaho)
 
 Gabriele Orlandi, Ph.D. (Alpine Anthropology – University of Venice)
 
-Connor Reakes (College of Art and Architecture - University of Idaho)
+Connor Reakes (Architecture - University of Idaho)
 
 
 
