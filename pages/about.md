@@ -35,10 +35,10 @@ Cat House (Idaho Fire Lookouts)
 Devin Becker, Prof. (Associate Dean Research and Instruction – UofI Library)
 
 Chris Lamb (Geography – Clarke University)
- 
+ <br>
 Brandon Light, Ph.D. cand. (Forest Ecology – College of Natural Resources UofI)
 
-Jack Kredell (Environmental Science – UofI)
+Jack Kredell, Ph.D. cand. (Environmental Science – UofI)
 
 Gabriele Orlandi, Ph.D. (Alpine Anthropology – University of Venice, IT)
 
