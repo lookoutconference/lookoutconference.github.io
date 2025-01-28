@@ -32,7 +32,7 @@ Cat House (Idaho Fire Lookouts)
 
 **Academic board:** 
 
-Devin Becker, Prof. (Associate Dean Research and Instruction, UofI Library)
+Devin Becker, Prof. (Associate Dean Research and Instruction – UofI Library)
 
 Chris Lamb (Geography – Clarke University)
  
