@@ -1,23 +1,8 @@
 <div class="page__footer-follow">
-  <a title="University of Idaho Library" href="https://www.lib.uidaho.edu/">
-    <img class="img-fluid lib-logo-lg" src="/assets/images/u-of-i-logo.svg" alt="University of Idaho Library [logo]" style="max-width:250px;padding:0px 0px 10px"></a>
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
-    {% endif %}
-
-    {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer"><i class="{{ link.icon | default: 'fas fa-link' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
-    {% endif %}
-
-    {% unless site.atom_feed.hide %}
-      <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
-    {% endunless %}
-  </ul>
+  <a title="University of Idaho Library" href="https://www.lib.uidaho.edu/" target="_blank">
+    <img class="img-fluid lib-logo-lg" src="{{'/assets/images/ui_library_horizontal.png' | relative_url }}" alt="University of Idaho Library [logo]" style="max-width:250px;padding:0px 10px 10px"></a>
+    <a title="Center for Digital Inquiry & Learning (CDIL)" href="https://cdil.lib.uidaho.edu/" target="_blank">
+      <img class="img-fluid lib-logo-lg" src="{{'/assets/images/cdil.png' | relative_url }}" alt="Center for Digital Inquiry & Learning (CDIL)" style="max-width:250px;padding:0px 10px 10px"></a>
 </div>
 
-<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} <a href="{{ site.copyright_url | default: site.url }}">{{ site.copyright | default: site.title }}</a>. <br> Sponsored by the College of Art & Architecture and the College of Graduate Studies at the University of Idaho.</div>
+<div class="page__footer-copyright"><p>Sponsored by the University of Idaho Library, the College of Art & Architecture, and the College of Graduate Studies at the University of Idaho.</p></div>

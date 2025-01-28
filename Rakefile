@@ -205,3 +205,16 @@ file "docs/_pages/home.md" => "package.json" do |t|
   content = content.gsub(/(\breleases\/tag\/|Latest release v)[\d.]+/, '\1' + package_json["version"])
   File.write(t.name, content)
 end
+
+
+# CollectionBuilder-SA helper tasks
+
+###############################################################################
+# TASK: deploy
+###############################################################################
+
+desc "Build site with production env"
+task :deploy do
+  ENV["JEKYLL_ENV"] = "production"
+  sh "bundle exec jekyll build"
+end
