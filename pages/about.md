@@ -30,6 +30,19 @@ Billy Cooter (Idaho Fire Lookouts)
 
 Cat House (Idaho Fire Lookouts)
 
+**Academic board:** 
+
+Chris Lamb (Geography – Clarke University)
+ 
+Brandon Light (Forest Ecology – College of Natural Resources UofI)
+
+Jack Kredell (Environmental Science – UofI)
+
+Gabriele Orlandi (Alpine Anthropology – University of Venice, IT)
+
+Connor Reakes (College of Art and Architecture student – 2025 AIAS President)
+
+
 
 **Dates:** April 19, 2025
 
