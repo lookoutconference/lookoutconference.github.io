@@ -13,30 +13,30 @@ permalink: "/board/"
 
 **Conference board:** 
 
-Gary Weber (Forest Fire Lookout Association) 
+– Billy Cooter (Idaho Fire Lookouts)
 
-Michael Decker (University of Idaho) 
+– Michael Decker (University of Idaho) 
 
-Andrea Alberto Dutto (University of Idaho) 
+– Andrea Alberto Dutto (University of Idaho) 
 
-Allison Ginn (United States Forest Service)
+– Allison Ginn (United States Forest Service)
 
-Billy Cooter (Idaho Fire Lookouts)
+– Cat House (Idaho Fire Lookouts)
 
-Cat House (Idaho Fire Lookouts)
+– Gary Weber (Forest Fire Lookout Association) 
 
 
 
 **Academic board:** 
 
-Devin Becker, Prof. (Library - University of Idaho)
+– Devin Becker, Prof. (Library - University of Idaho)
 
-Chris Lamb (Geography – Clarke University)
- 
-Brandon Light, Ph.D. cand. (Forest Ecology – College of Natural Resources UofI)
+– Chris Lamb (Geography – Clarke University)
 
-Jack Kredell (Environmental Science – UofI)
+– Brandon Light, Ph.D. cand. (Forest Ecology – College of Natural Resources UofI)
 
-Gabriele Orlandi, Ph.D. (Alpine Anthropology – University of Venice, IT)
+– Jack Kredell (Environmental Science – UofI)
 
-Connor Reakes (College of Art and Architecture student – 2025 AIAS President)
+– Gabriele Orlandi, Ph.D. (Alpine Anthropology – University of Venice, IT)
+
+– Connor Reakes (College of Art and Architecture student – 2025 AIAS President)

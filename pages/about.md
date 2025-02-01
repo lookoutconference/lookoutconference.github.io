@@ -17,40 +17,10 @@ permalink: "/about/"
 <a href="https://www.uidaho.edu/caa/programs/architecture/ourpeople/andrea-dutto" target="_blank">Andrea Alberto Dutto</a> (College of Art and Architecture)
 
 
-**Conference board:** 
-
-Gary Weber (Forest Fire Lookout Association) 
-
-Michael Decker (University of Idaho) 
-
-Andrea Alberto Dutto (University of Idaho) 
-
-Allison Ginn (United States Forest Service)
-
-Billy Cooter (Idaho Fire Lookouts)
-
-Cat House (Idaho Fire Lookouts)
-
-
-
-**Academic board:** 
-
-Devin Becker, Prof. (Library - University of Idaho)
-
-Chris Lamb (Geography – Clarke University)
- 
-Brandon Light, Ph.D. cand. (Forest Ecology – College of Natural Resources UofI)
-
-Jack Kredell (Environmental Science – UofI)
-
-Gabriele Orlandi, Ph.D. (Alpine Anthropology – University of Venice, IT)
-
-Connor Reakes (College of Art and Architecture student – 2025 AIAS President)
-
-
 **Dates:** April 19, 2025
 
 **Location:** University of Idaho, Moscow Campus
+
 
 
 ## **Important Dates**
