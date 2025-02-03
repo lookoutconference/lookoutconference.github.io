@@ -5,7 +5,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.1"
   overlay_image: /assets/images/diablo.png
-excerpt: "Join Us on the Palouse in May!"
+excerpt: "Join Us on the Palouse in April!"
 permalink: "/join/"
 ---
 # **GETTING HERE**
