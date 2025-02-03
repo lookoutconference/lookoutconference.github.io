@@ -26,6 +26,7 @@ permalink: "/board/"
 
 * Devin Becker, Prof. (Library - University of Idaho)
 * Chris Lamb (Geography – Clarke University)
+* Hannah Green (English – University of Idaho)
 * Brandon Light, Ph.D. cand. (Forest Ecology – College of Natural Resources UofI)
 * Jack Kredell (Environmental Science – UofI)
 * Gabriele Orlandi, Ph.D. (Alpine Anthropology – University of Venice, IT)
