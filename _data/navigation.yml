@@ -6,12 +6,13 @@ main:
     url: /theme/  
   - title: "Participate"
     url: /participate/
-  - title: "Location/Lodging"
+  - title: "Location"
     url: /join/
-  - title: "Committee"
-    url: /board/
   - title: "Proceedings" 
     url: /proceedings/
+  - title: "Committee"
+    url: /board/
+
   
   
   # - title: "Sample Collections"
