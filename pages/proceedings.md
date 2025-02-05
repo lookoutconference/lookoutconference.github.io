@@ -13,7 +13,7 @@ excerpt: " "
 permalink: "/proceedings/"
 ---
 
-# ** **
+# Proceedings
 
 
 
