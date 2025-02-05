@@ -21,4 +21,4 @@ permalink: "/proceedings/"
 
 A selection of papers presented at NILC 2025 will be published in <a href="https://journals.lib.uidaho.edu/index.php/flj/index" target="_blank">The Fire Lookout Journal – Issue 01</a>, , the first journal dedicated to examining fire lookouts within the human environment, offering a deeper understanding of their historical, cultural, and ecological significance.
 
-The peer-reviewed abstracts presented at the conference will be made available as multimedia files marked with a DOI code.\.
+The peer-reviewed abstracts presented at the conference will be made available as multimedia files marked with a DOI code\.
