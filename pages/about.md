@@ -24,11 +24,11 @@ permalink: "/about/"
 
 ## **Important Dates**
 
-*Abstract Submission Deadline*: 03/15/2024
+*Abstract Submission Deadline*: 03/15/2025
 
-*Abstract Acceptance*: 03/25/2024
+*Abstract Acceptance*: 03/25/2025
 
-*Presentation Upload*: 4/15/2024
+*Presentation Upload*: 4/15/2025
 
 [Please submit questions here](https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943){: .btn .btn--info .btn--large}
 
