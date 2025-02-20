@@ -42,7 +42,9 @@ We encourage papers and presentations from both academic and non-academic fields
 * Specify whether your research focuses on the history, future, or both of these aspects of fire lookouts.
 
 * Highlight the innovative elements of your work, particularly if it envisions new directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy which may include forestry, GIS, environmental science, natural resource conservation and more!
-* We will publish a proceedings index to offer free access to NILC presentation and papers. Please contact NILC to reuse any material found in the conference proceedings index. 
+* We will publish a proceedings index to offer free access to NILC presentation and papers. Please contact NILC to reuse any material found in the conference proceedings index.
+
+The conference offers a limited number of remote presentations (Zoom). Those interested in participating in this mode can contact the conference organizers through the following form: <a href="https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943">Contact form</a>
 
 [Submit your abstract](https://futurevandals.uidaho.edu/register/?id=c916960c-8c7e-4331-ae33-c48c42ea07af){: .btn .btn--info .btn--large} 
 
@@ -54,6 +56,8 @@ Full Conference Access
 Attend full conference events, paper presentations, and panel discussions on Saturday April 19th, with a keynote speaker, and netoworking event Saturday evening at a local art gallery. This is a great conference to get to know others working in the field of fire lookouts.
 
 Cost: $50 (includes full conference access, lunch, and dinner)
+
+We ask that attendees register by April 1st to guarantee lunch and a name badge.
 
 All members of the University of Idaho community, including students, employees, and faculty, may attend the conference at no cost.
 
