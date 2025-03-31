@@ -19,7 +19,7 @@ There are a number of ways you can participate in NILC 2025\.
 
 **1\) Present at NILC**
 
-Note: abstract submissions will become available in late-January. 
+Note: Abstract submissions are closed for this year! Thank you for your interest, and we encourage those interested in presenting to look for our open submission next year! 
 
 Project or Short Paper:   
 15-20 minute presentation
@@ -50,6 +50,8 @@ The conference offers a limited number of remote presentations (Zoom). Those int
 
 
 **2\) Come as an Attendee**
+
+Note: We only have about 15 registrations left before we hit our registration capacity. We will update this number daily as registrations fill up. 
 
 Full Conference Access
 
