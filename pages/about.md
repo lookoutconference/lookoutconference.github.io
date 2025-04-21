@@ -8,6 +8,7 @@ header:
 excerpt: "The Past and Future of Fire Lookouts"
 permalink: "/about/"
 ---
+
 # About
 
 **Conference organizers:** 
@@ -20,6 +21,7 @@ permalink: "/about/"
 
 **Location:** University of Idaho, Moscow Campus
 
+**Program:** <a href="/lookoutconference/Booklet_Nilc.pdf">NILC 2025</a>
 
 
 ## **Important Dates**
