@@ -256,6 +256,12 @@ compress_html:
     envs: development
 
 
+# Collections
+collections:
+  nilc2025:
+    output: true
+    permalink: /:collection/:name/
+
 # Defaults
 defaults:
   # _posts
@@ -269,3 +275,14 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _nilc2025
+  - scope:
+      path: ""
+      type: nilc2025
+    values:
+      layout: panel
+      author_profile: false
+      read_time: false
+      comments: false
+      share: true
+      related: false

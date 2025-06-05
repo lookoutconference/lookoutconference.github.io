@@ -2,14 +2,16 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Archives"
+    url: /archives/
+  - title: "Proceedings" 
+    url: /proceedings/
   - title: "Themes"
     url: /theme/  
   - title: "Participate"
     url: /participate/
   - title: "Location"
     url: /join/
-  - title: "Proceedings" 
-    url: /proceedings/
   - title: "Committee"
     url: /board/
 

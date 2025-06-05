@@ -1,0 +1,143 @@
+---
+layout: default
+classes: wide
+---
+
+{% comment %}
+<!-- Get panel items from nilc2025.csv data -->
+{% endcomment %}
+{% assign panel_items = site.data.nilc2025 | where: "parentid", page.panel_id %}
+
+{% comment %}
+<!-- Hero image logic: use first YouTube thumbnail or fallback -->
+{% endcomment %}
+{% assign hero_image = nil %}
+{% for item in panel_items %}
+  {% if item.youtube %}
+    {% assign youtube_id = item.youtube | split: '/' | last | split: '=' | last | split: '&' | first %}
+    {% assign hero_image = 'https://img.youtube.com/vi/' | append: youtube_id | append: '/maxresdefault.jpg' %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% unless hero_image %}
+  {% assign hero_image = '/assets/images/no_business_panorama.jpg' %}
+{% endunless %}
+
+<div class="page__hero--overlay"
+  style="background-color: #000; background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('{{ hero_image }}'); background-size: cover; background-position: center;">
+  <div class="wrapper">
+    <h1 id="page-title" class="page__title" itemprop="headline">{{ page.title }}</h1>
+    {% if page.chair %}
+      <p class="page__lead">Chaired by {{ page.chair }}</p>
+    {% endif %}
+  </div>
+</div>
+
+<div id="main" role="main">
+  <article class="splash" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="page__inner-wrap">
+      
+      <section class="page__content" itemprop="text">
+        {% comment %}
+        <!-- Panel description content -->
+        {% endcomment %}
+        {{ content }}
+        
+        {% comment %}
+        <!-- Table of Contents for multiple presentations -->
+        {% endcomment %}
+        {% if panel_items.size > 1 %}
+          <div class="toc-wrapper" style="background: #f8f9fa; padding: 1rem; border-radius: 8px; margin: 1rem 0;">
+            <h3 style="margin-top: 0;">Presentations</h3>
+            <ul style="margin-bottom: 0;">
+            {% for item in panel_items %}
+              {% assign anchor_id = item.title | slugify %}
+              <li><strong>{{ item.speaker }}:</strong> <a href="#{{ anchor_id }}">{{ item.title }}</a></li>
+            {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
+        
+        {% comment %}
+        <!-- Display panel presentations -->
+        {% endcomment %}
+        {% if panel_items.size > 0 %}
+          <h2>Presentations</h2>
+          
+          {% for item in panel_items %}
+            {% assign anchor_id = item.title | slugify %}
+            {% if item.youtube and item.youtube != "" %}
+              {% assign youtube_id = item.youtube | split: '/' | last | split: '=' | last | split: '&' | first %}
+              <div class="panel-item" id="{{ anchor_id }}">
+                <div class="panel-video">
+                  <div class="youtube-wrapper">
+                    <div class="responsive-embed">
+                      <iframe src="https://www.youtube.com/embed/{{ youtube_id }}" 
+                              title="YouTube video player" frameborder="0" 
+                              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+                              allowfullscreen>
+                      </iframe>
+                    </div>
+                    <p><small><a href="{{ item.youtube }}" target="_blank">Open on YouTube</a></small></p>
+                    {% if item.subject and item.subject != "" %}
+                    <br><hr>
+                    <p><strong>Topics:</strong> <em>{{ item.subject }}</em></p>
+                  {% endif %}
+                  </div>
+                </div>
+                <div class="panel-info">
+                  <h3>{{ item.title }}</h3>
+                  
+                  {% if item.speaker %}
+                    <p><strong>Speaker:</strong> {{ item.speaker }}</p>
+                  {% endif %}
+                  
+                  {% if item.panel-members and item.panel-members != "" %}
+                    <p><strong>Panel Members:</strong> {{ item.panel-members }}</p>
+                  {% endif %}
+                  
+                  
+                  
+                  {% if item.abstract and item.abstract != "" %}
+                    <div class="abstract">
+                      <p><strong>Abstract:</strong></p>
+                      <div>{{ item.abstract | markdownify }}</div>
+                    </div>
+                  {% endif %}
+                </div>
+              </div>
+            {% else %}
+              <div class="panel-item no-video" id="{{ anchor_id }}">
+                <div class="panel-info">
+                  <h3>{{ item.title }}</h3>
+                  
+                  {% if item.speaker %}
+                    <p><strong>Speaker:</strong> {{ item.speaker }}</p>
+                  {% endif %}
+                  
+                  {% if item.panel-members and item.panel-members != "" %}
+                    <p><strong>Panel Members:</strong> {{ item.panel-members }}</p>
+                  {% endif %}
+                  
+                  {% if item.subject and item.subject != "" %}
+                    <p><strong>Topics:</strong> <em>{{ item.subject }}</em></p>
+                  {% endif %}
+                  
+                  {% if item.abstract and item.abstract != "" %}
+                    <div class="abstract">
+                      <p><strong>Abstract:</strong></p>
+                      <div>{{ item.abstract | markdownify }}</div>
+                    </div>
+                  {% endif %}
+                </div>
+              </div>
+            {% endif %}
+          {% endfor %}
+        {% endif %}
+      </section>
+      
+      {% if page.share %}{% include social-share.html %}{% endif %}
+    </div>
+  </article>
+</div>
