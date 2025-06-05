@@ -19,7 +19,7 @@ This page lists the sessions and links to content from past conferences.
 <p><strong>📖 Conference Booklet:</strong> <a href="{{ site.baseurl }}/Booklet_Nilc.pdf" target="_blank">Download the full NILC 2025 Conference Booklet (PDF)</a></p>
 </div>
 
-The 2025 National Interdisciplinary Lookout Conference featured {{ site.nilc2025.size }} engaging sessions exploring various aspects of fire lookouts in the human environment. Each section brought together diverse perspectives from researchers, practitioners, and enthusiasts.
+The 2025 National Interdisciplinary Lookout Conference featured a series of panels, presentations, and lectures exploring various aspects of fire lookouts in the human environment. The Theme for the conference was *“The Past and Future of Fire Lookouts,”* and content focused on exploring the history and the evolving role of fire lookout towers and related issues. 
 
 ### Conference Sessions
 
