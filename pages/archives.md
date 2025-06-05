@@ -27,7 +27,7 @@ The 2025 National Interdisciplinary Lookout Conference featured a series of pane
 {% assign sections = site.data.sections2025 %}
 {% for section in sections %}
 {% if section.id != 'id' %}
-{% assign section_url = '/nilc2025/' | append: section.id | append: '/' %}
+{% assign section_url = '/nilc2025/' | append: section.id | append: '.html' %}
 <div class="section-card">
 <h3><a href="{{ section_url | relative_url }}">{{ section.title }}</a></h3>
 {% if section.chair and section.chair != "" %}

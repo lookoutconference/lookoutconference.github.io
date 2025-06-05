@@ -260,7 +260,7 @@ compress_html:
 collections:
   nilc2025:
     output: true
-    permalink: /:collection/:name/
+    permalink: /:collection/:name.html
 
 # Defaults
 defaults:
