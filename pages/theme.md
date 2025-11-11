@@ -16,7 +16,7 @@ permalink: "theme/"
 
 New directions for fire lookouts, theories of space and place or dwelling, architectural design in off-grid and natural settings, or forest management policy and technology that has augmented or replaced fire lookouts. 
 
-This year’s theme, *“Lookouts and the Wilderness,”* focuses on the relationship between lookouts and Wilderness. 
+This year’s theme, ***“Lookouts and the Wilderness,”*** focuses on the relationship between lookouts and Wilderness. 
 
 ***Fire Lookouts in the Wilderness***  
 We are interested in any presentations that examine fire lookouts contained in federally designated Wilderness. These can be active exceptions (think Sheepeater Lookout) or abandoned structures (think Chicken Peak). These can be stories about staffing remote Wilderness lookouts or hiking out and seeing an abandoned lookout. What feelings of wildness do these inspire in you? What does Wilderness mean in the context of lookouts? Should they be allowed in the Wilderness? We are interested in getting into the weeds on this debate! 
