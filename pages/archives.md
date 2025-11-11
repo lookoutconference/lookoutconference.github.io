@@ -5,7 +5,7 @@ permalink: /archives/
 header:
   overlay_color: "#000"
   overlay_filter: "0.4"
-  overlay_image: /assets/images/no_business_panorama.jpg
+  overlay_image: /assets/images/nilc2025-67.jpg
 excerpt: "Explore the diverse panels and sessions from our interdisciplinary lookout conferences"
 ---
 
