@@ -19,7 +19,7 @@ permalink: "/participate/"
 
 # **PARTICIPATE**
 
-There are a number of ways you can participate in NILC 2025\.
+There are a number of ways you can participate in NILC 2026.
 
 **1) Present at NILC**
 
