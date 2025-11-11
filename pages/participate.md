@@ -23,11 +23,6 @@ There are a number of ways you can participate in NILC 2025\.
 
 **1) Present at NILC**
 
-Note: Abstract submissions are closed for this year! Thank you for your interest, and we encourage those interested in presenting to look for our open submission next year! 
-
-Project or Short Paper:   
-15-20 minute presentation
-
 Fire towers are inseperable from the concept of the Wilderness. How do we understand this relationship? Wilderness is defined as a place where "man is but a visitor who does not remain," and yet, Wilderness lookouts remain. Lookouts outside of Wilderness gaze permently upon Wilderness landscapes. And even those lookouts not within, or adjacent to, Wilderness, well they still have a wilderness character. They provide an experience that is often seen as "wild." 
 
 We are interested in presentations that discuss Wilderness and fire lookouts. Wilderness can be defined as either official "Capital W" Wilderness, or a landscape that has a wild character. It can also refer to wildness within urban landscapes, inside one's mind, or in other non-traditionl Wilderness spaces. Other presentations can be about the fire lookouts relationship to other Wilderness structures like Ranger stations or private inholdings. 
