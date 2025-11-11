@@ -9,11 +9,11 @@ header:
   # cta_url: "https://uidaho.co1.qualtrics.com/jfe/form/SV_eLQjthbshmz3bNz"
   # cta2_label: "Washington State University Applicants"
   # cta2_url: "https://wsu.co1.qualtrics.com/jfe/form/SV_07ioTAKauWCC2X3"
-excerpt: "Applications for 2025 are open now"
+excerpt: "Applications for 2026 are open now"
 permalink: "/participate/"
 ---
 
-*The 2025 Program is set!*
+*See last year's program!*
 
 <a href="/lookoutconference/Booklet_Nilc.pdf" class="btn btn--primary btn--large">Check out the NILC 2025 Program!</a>
 
