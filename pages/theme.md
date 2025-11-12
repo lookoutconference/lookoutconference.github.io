@@ -29,7 +29,7 @@ Roderick Fraizer Nash published his seminal Wilderness text *Wilderness and the 
 
 ***Lookouts and a Wilderness Quality*** <br>This theme explores how lookouts help maintain a Wilderness quality. Do lookouts somehow enhance the Wilderness experience? Some may argue that the architecture of the lookout is part of the larger architecture of the Wildereness. This session may act as a counter argument to lookout purism which often rejects the lookout structure within Wilderness. These sessions may also discuss how Wilderness has evolved over time, and how new adaptations and ways of viewing Wilderness (one that emphasizes the human architecture of Wilderness) is necessary. 
 
-***Lookouts as Structure and other Wilderness Structures and Networks***<br></br>
+***Lookouts as Structure and other Wilderness Structures and Networks***<br>
 This session is all about the nuts and bolts of lookouts. We want to hear about Wilderness and rural structure building from experts who have constructed or restored lookouts. We are also interested in hearing about the network that lookouts are a part of. This can include ranger stations, dispatch networks, fire crews, or pilots. The lookout structure and its network is an impressive act that takes tremendous technical knoledge and a unified theory of cooperation. This session can include how lookouts are built, preserved, how they interact with other structures, or how they exist in a broader communication network. 
 
 Click <a href="https://lookoutconference.github.io/participate/">here</a> to submit an abstract or register as an attendee. 
