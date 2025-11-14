@@ -37,7 +37,7 @@ permalink: "/about/"
 
 
 
-## 🌲 About the Conference & Theme
+## About the Conference & Theme
 
 The **National Interdisciplinary Lookout Conference (NILC)** invites abstracts and proposals for its second annual conference.
 
