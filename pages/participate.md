@@ -21,39 +21,62 @@ permalink: "/participate/"
 
 There are a number of ways you can participate in NILC 2026.
 
-**1) Present at NILC**
+### 1. Present at NILC: Lookouts and the Wilderness
 
-Fire towers are inseperable from the concept of the Wilderness. How do we understand this relationship? Wilderness is defined as a place where "man is but a visitor who does not remain," and yet, Wilderness lookouts remain. Lookouts outside of Wilderness gaze permently upon Wilderness landscapes. And even those lookouts not within, or adjacent to, Wilderness, well they still have a wilderness character. They provide an experience that is often seen as "wild." 
+We invite submissions for presentations that discuss the complex relationship between **Wilderness** and fire lookouts.
 
-We are interested in presentations that discuss Wilderness and fire lookouts. Wilderness can be defined as either official "Capital W" Wilderness, or a landscape that has a wild character. It can also refer to wildness within urban landscapes, inside one's mind, or in other non-traditionl Wilderness spaces. Other presentations can be about the fire lookouts relationship to other Wilderness structures like Ranger stations or private inholdings. 
+* **The Core Paradox:** Fire lookouts are inseparable from the concept of the wild. However, Wilderness is officially defined as a place where “man is but a visitor who does not remain.” This creates a fascinating paradox, as Wilderness lookouts *do* remain, and lookouts outside of Wilderness gaze permanently upon Wilderness landscapes, providing an experience often seen as "wild."
+* **Broadening the Scope of Wilderness:** We welcome presentations defining Wilderness in broad terms:
+    * Official, federally designated **“Capital W” Wilderness**.
+    * A landscape with a general **wild character**.
+    * Wildness within urban landscapes, the human mind, or other non-traditional spaces.
+* **Related Structures:** We are also interested in the fire lookout's relationship to other wilderness structures, such as Ranger Stations or private inholdings.
 
-We encourage papers and presentations from both academic and non-academic fields. In addition to the disciplines above, we recognize that great work is being done outside of these spaces. We welcome passion projects, which are often the heartbeat of the fire lookout community. This includes projects to preserve fire lookouts through photo or video collections, public media projects (such as podcasts), and restoration / preservation work of all kinds!
+### **Submission Guidelines**
 
-Instructions for submissions are as follows: 
+We encourage papers and presentations from both **academic and non-academic fields**. In addition to traditional disciplines, we recognize and welcome **passion projects**, which are the heartbeat of the fire lookout community. This includes projects focused on:
 
-Write no more than 500 words covering the following: 
+* Preservation through photo or video collections.
+* Public media projects (such as podcasts).
+* Restoration and preservation work of all kinds.
 
-1) An overview of your proposed presentation
-2) How it relates to the conferfence topic
-3) How long you intend to present--we are open to accomodating longer sessions (45 minutes with 10 minutes for questions) or shorter presentations (10-15 minutes in panel formats). 
+#### **Instructions for Submission:**
+
+Write a proposal of **no more than 500 words** covering the following three points:
+
+1.  **An Overview:** A clear summary of your proposed presentation or project.
+2.  **Relevance to the Theme:** Explain how your proposal relates to the conference topic, “Lookouts and the Wilderness.”
+3.  **Presentation Length:** Indicate how long you intend to present. We are open to accommodating:
+    * **Longer sessions** (45 minutes, with 10 minutes for questions).
+    * **Shorter presentations** (10–15 minutes, typically in a panel format).
 
 The conference offers a **limited number of remote presentations (Zoom)**. Those interested in participating in this mode can contact the conference organizers through the following form: <a href="https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943">Contact form</a>
 
 [Submit your abstract](https://futurevandals.uidaho.edu/register/?id=c916960c-8c7e-4331-ae33-c48c42ea07af){: .btn .btn--info .btn--large} 
 
 
-**2\) Come as an Attendee**
+### 2. Attend the Conference
 
-Full Conference Access
+Join us for the full conference experience on **Saturday, April 19th**, where you can engage with the latest research and network with fellow enthusiasts.
 
-Attend full conference events, paper presentations, and panel discussions on Saturday April 19th, with a keynote speaker, and netoworking event Saturday evening at a local art gallery. This is a great conference to get to know others working in the field of fire lookouts.
+#### **Full Conference Access Includes:**
 
-Cost: $75 (includes full conference access, light lunch, and dinner)
-Add a shirt: $30 (must register by February 20 to guarantee shirt). 
+* **All Presentations:** Access to paper presentations and panel discussions.
+* **Keynote Speaker:** Attendance at the featured keynote address.
+* **Networking Event:** Participation in the Saturday evening social at a local art gallery, a perfect opportunity to meet others working in the fire lookout community.
+* **Meals:** A light lunch and dinner are included.
 
-We ask that attendees register by March 10th to guarantee lunch and a name badge.
+#### **Registration Details**
 
-All members of the University of Idaho community, including students, employees, and faculty, may attend the conference at no cost.
+| Item | Cost | Details |
+| :--- | :--- | :--- |
+| **Full Attendee Registration** | **$75** | Includes all conference events, lunch, and dinner. |
+| **Optional NILC T-shirt** | **$30** | Must register by **February 20th** to guarantee your shirt and size. |
+
+**Important Dates:**
+
+* **Lunch/Badge Guarantee:** Please register by **March 10th** to ensure we can provide you with lunch and a name badge.
+* **University of Idaho Community:** All students, employees, and faculty of the University of Idaho may attend the conference at **no cost**.
 
 [Register as an attendee](https://futurevandals.uidaho.edu/register/?id=48aaed48-97d9-447e-8c42-132902fb382c){: .btn .btn--info .btn--large}
 **The conference offers a limited number of remote presentations (Zoom).** Those interested in participating in this mode can contact the conference organizers through the following form: <a href="https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943">Contact form</a>
