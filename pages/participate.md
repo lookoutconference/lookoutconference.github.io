@@ -49,6 +49,7 @@ Full Conference Access
 Attend full conference events, paper presentations, and panel discussions on Saturday April 19th, with a keynote speaker, and netoworking event Saturday evening at a local art gallery. This is a great conference to get to know others working in the field of fire lookouts.
 
 Cost: $75 (includes full conference access, light lunch, and dinner)
+Add a shirt: $30
 
 We ask that attendees register by March 10th to guarantee lunch and a name badge.
 
