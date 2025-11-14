@@ -12,8 +12,6 @@ main:
     url: /archives/
   - title: "Proceedings" 
     url: /proceedings/
-  - title: "Participate"
-    url: /participate/
   - title: "Conference Board"
     url: /board/
 
