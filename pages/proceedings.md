@@ -4,7 +4,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/nilc2025-67.jpg
+  overlay_image: /assets/images/firelookoutjournal.png
   # cta_label: "University of Idaho Applicants"
   # cta_url: "https://uidaho.co1.qualtrics.com/jfe/form/SV_eLQjthbshmz3bNz"
   # cta2_label: "Washington State University Applicants"
@@ -17,8 +17,8 @@ permalink: "/proceedings/"
 
 
 
-**NILC 2025: The Past and Future of Fire Lookouts**
+**NILC 2026: The Past and Future of Fire Lookouts**
 
-A selection of papers presented at NILC 2025 will be published in <a href="https://journals.lib.uidaho.edu/index.php/flj/index" target="_blank">The Fire Lookout Journal – Issue 01</a>, , the first journal dedicated to examining fire lookouts within the human environment, offering a deeper understanding of their historical, cultural, and ecological significance.
+A selection of papers presented at NILC 2026 will be published in <a href="https://journals.lib.uidaho.edu/index.php/flj/index" target="_blank">The Fire Lookout Journal – Issue 01</a>, , the first journal dedicated to examining fire lookouts within the human environment, offering a deeper understanding of their historical, cultural, and ecological significance.
 
 The peer-reviewed abstracts presented at the conference will be made available as multimedia files marked with a DOI code\.
