@@ -37,15 +37,33 @@ permalink: "/about/"
 
 
 
-## **About the Conference/Theme**
+## 🌲 About the Conference & Theme
 
-The National Interdisciplinary Lookout Conference (NILC) invites abstracts and proposals for its second annual conference. This year’s theme, *“Lookouts and the Wilderness,”* explores the fire lookout and Wilderness as mutual concept, how they are connected and relate to one another, and the mutual infrastructures and relationships that they create in humans and human institutions.
+The **National Interdisciplinary Lookout Conference (NILC)** invites abstracts and proposals for its second annual conference.
 
-In the spirit of interdisciplinarity, we welcome submissions from a broad range of disciplines, including hobbyists/enthusiasts, active or former fire lookouts, natural resources professionals, fire managers, GIS experts, humanities scholars, architects, and civil engineers. 
+### **2026 Theme: “Lookouts and the Wilderness”**
 
-The conference will take place April 19, 2025, at the University of Idaho in Moscow, Idaho. Once home to more active fire lookouts than any other state—and therefore the world—Idaho is a fitting location for NILC ‘26. Our aim is to bring together different perspectives and disciplines to shape the future of fire lookout towers, which remain integral to fire management policies in Idaho and across the American West.  
+This year’s theme explores the fire lookout and Wilderness as mutual concepts, examining how they are connected and relate to one another. We will investigate the mutual infrastructures and relationships that these concepts create in both humans and human institutions.
 
-**A full conference schedule will be posted in late-March once presentation submissions are finalized.** 
+### **Who Should Attend?**
 
+In the spirit of interdisciplinarity, we welcome submissions and participation from a broad range of disciplines, including:
+
+* Hobbyists/Enthusiasts
+* Active or former fire lookouts
+* Natural resources professionals and fire managers
+* GIS experts
+* Humanities scholars
+* Architects and civil engineers
+
+### **Location and Mission**
+
+The conference will take place on **April 4, 2026, at the University of Idaho in Moscow, Idaho**.
+
+Idaho is a fitting location for NILC 2026, as it was once home to more active fire lookouts than any other state—and therefore, the world. Our primary aim is to bring together diverse perspectives and disciplines to help shape the future of fire lookout towers, which remain integral to fire management policies in Idaho and across the American West.
+
+### **Schedule**
+
+A full conference schedule will be posted in late-February 2026 once presentation submissions are finalized.
 [More on the Conference Theme](../theme/){: .btn .btn--info .btn--large}
 
