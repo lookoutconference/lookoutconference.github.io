@@ -21,7 +21,7 @@ permalink: "/about/"
 
 **Time** 8:00 AM PST to 7:00 PM PST
 
-**Location:** University of Idaho, Moscow Campus and 1912 Center in downtown Moscow, and Hunga Dunga Brewing
+**Location:** <a href="https://www.uidaho.edu/">University of Idaho, Moscow Campus</a>, <a href="https://www.1912center.org/">The 1912 Center in downtown Moscow</a>, and <a href="https://www.hungadungabrewing.com/">Hunga Dunga Brewing</a>. 
 
 **Program:** A formal program will be displayed here once speakers have been finalized in mid-February. 
 
