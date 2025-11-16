@@ -14,7 +14,7 @@ permalink: "theme/"
 
 ## Conference Theme: Lookouts and the Wilderness
 
-This year’s theme, **“Lookouts and the Wilderness,”** explores the complex relationship between fire lookouts and federally designated Wilderness areas, as well as the concept of "wilderness" itself.
+This year’s theme, **“Lookouts and the Wilderness,”** explores the complex relationship between fire lookouts and federally designated Wilderness areas, as well as the concept of "wilderness" itself. We welcome presentations about fire lookouts in both federally designated Wilderness and also places that have a "wild" character. 
 
 ---
 
