@@ -20,7 +20,7 @@ This year’s theme, **“Lookouts and the Wilderness,”** explores the complex
 
 ### 1. Fire Lookouts *in* the (w)ilderness and the (W)ilderness
 
-We seek presentations that examine fire lookouts located within federally designated Wilderness. These can be active exceptions (think Sheepeater Lookout) or abandoned structures (think Chicken Peak).
+We seek presentations that examine fire lookouts located within wild spaces of all kinds.
 
 * **Lookouts *in* the Wilderness:**
     * Stories about staffing remote Wilderness lookouts or discovering abandoned sites.
