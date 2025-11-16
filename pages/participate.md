@@ -71,11 +71,11 @@ Join us for the full conference experience on **Saturday, April 19th**, where yo
 | Item | Cost | Details |
 | :--- | :--- | :--- |
 | **Full Attendee Registration** | **$75** | Includes all conference events, lunch, and dinner. |
-| **Optional NILC T-shirt** | **$30** | Must register by **February 20th** to guarantee your shirt and size. |
+| **Optional NILC T-shirt** | **$30** | Must register by **February 20th** to guarantee a shirt. |
 
 **Important Dates:**
 
-* **Lunch/Badge Guarantee:** Please register by **March 10th** to ensure we can provide you with lunch and a name badge.
+* **Lunch/Badge Guarantee:** Please register by **March 10th** to ensure we can provide you with lunch and dinner and a name badge.
 * **University of Idaho Community:** All students, employees, and faculty of the University of Idaho may attend the conference at **no cost**.
 
 [Register as an attendee](https://futurevandals.uidaho.edu/register/?id=48aaed48-97d9-447e-8c42-132902fb382c){: .btn .btn--info .btn--large}
