@@ -55,7 +55,7 @@ This theme explores how lookouts might help maintain or even **enhance the Wilde
 This session is all about the nuts and bolts of lookouts.
 
 * **Structure and Restoration:** We want to hear about Wilderness and rural structure building from experts who have constructed or restored lookouts.
-* **The Lookout Network:** We are also interested in hearing about the broader network that lookouts are a part of (e.g., ranger stations, dispatch networks, fire crews, or pilots).
+* **The Detection System:** We are also interested in hearing about the broader network that lookouts are a part of (e.g., ranger stations, dispatch networks, fire crews, or pilots).
 * The lookout structure and its network is an impressive act that takes tremendous technical **knowledge** and a unified theory of cooperation. This session can include how lookouts are built, preserved, and how they interact within a broader communication system.
 
 Click <a href="https://lookoutconference.github.io/participate/">here</a> to submit an abstract or register as an attendee. 
