@@ -23,9 +23,9 @@ This year’s theme, **“Lookouts and the Wilderness,”** explores the complex
 We seek presentations that examine fire lookouts located within wild spaces of all kinds.
 
 * **Lookouts *in* the Wilderness:**
-    * Stories about staffing remote Wilderness lookouts or discovering abandoned sites.
+    * Stories about staffing remote wilderness lookouts or discovering abandoned sites.
     * The feelings of wildness these structures inspire.
-    * The meaning of Wilderness in the context of lookouts.
+    * The meaning of wilderness in the context of lookouts.
     * The debate on whether they should be allowed in Wilderness areas. We are interested in getting into the weeds on this debate!
 
 * **Fire Lookouts *Adjacent* to Wilderness**
@@ -39,12 +39,12 @@ We seek presentations that examine fire lookouts located within wild spaces of a
 Roderick Frazier Nash published his seminal Wilderness text, *Wilderness and the American Mind*, in the 1970s, establishing that Wilderness is both a physical space and a human concept. The fire lookout, too, exists in both spaces.
 
 * Lookouts were built for official purposes—watching over valuable timber and monitoring fire.
-* However, placing a person on a mountaintop often inspires a **"Wilderness of the mind"**: the human mind runs wild, starting books, championing the environment, and connecting to nature.
+* However, placing a person on a mountaintop often inspires a **"wilderness of the mind"**: the human mind runs wild, starting books, championing the environment, and connecting to nature.
 * This theme focuses on the internal, conceptual space of fire lookouts that occurs within the human mind.
 
 ### 4. Lookouts and a Wilderness Quality
 
-This theme explores how lookouts might help maintain or even **enhance the Wilderness experience**.
+This theme explores how lookouts might help maintain or even **enhance the wilderness experience**.
 
 * Some may argue that the architecture of the lookout is part of the larger architecture of the Wilderness.
 * This session may act as a counter-argument to lookout purism, which often rejects the lookout structure within Wilderness.
