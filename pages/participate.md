@@ -52,7 +52,7 @@ Write a proposal of **no more than 500 words** covering the following three poin
 
 The conference offers a **limited number of remote presentations (Zoom)**. Those interested in participating in this mode can contact the conference organizers through the following form: <a href="https://futurevandals.uidaho.edu/register/?id=c6162e10-cb08-4c3e-83fd-08a7fe968943">Contact form</a>
 
-[Submit your abstract](https://futurevandals.uidaho.edu/register/?id=c916960c-8c7e-4331-ae33-c48c42ea07af){: .btn .btn--info .btn--large} 
+[Submit your abstract](https://futurevandals.uidaho.edu/register/?id=df43986c-dd45-45ba-9809-6eab38435270){: .btn .btn--info .btn--large} 
 
 
 ### 2. Attend the Conference
