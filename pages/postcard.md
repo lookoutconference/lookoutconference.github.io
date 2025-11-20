@@ -10,7 +10,7 @@ header:
   # cta2_label: "Washington State University Applicants"
   # cta2_url: "https://wsu.co1.qualtrics.com/jfe/form/SV_07ioTAKauWCC2X3"
 excerpt: " "
-permalink: "/proceedings/"
+permalink: "/postcard/"
 ---
 
 # Lookout Post Card Submissions
