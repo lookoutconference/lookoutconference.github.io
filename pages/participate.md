@@ -13,9 +13,7 @@ excerpt: "Applications for 2026 are open now"
 permalink: "/participate/"
 ---
 
-*See last year's program!*
-
-<a href="/lookoutconference/Booklet_Nilc.pdf" class="btn btn--primary btn--large">Check out the NILC 2025 Program!</a>
+<a href="https://lookoutconference.github.io/Booklet_Nilc.pdf" class="btn btn--primary btn--large">Check out last year's Program!</a>
 
 # **PARTICIPATE**
 
