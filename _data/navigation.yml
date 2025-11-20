@@ -10,8 +10,8 @@ main:
     url: /join/
   - title: "Archives"
     url: /archives/
-  - title: "Conference Board"
-    url: /board/
+  - title: "Lookout Postcards"
+    url: /postcard/
   - title: "Proceedings" 
     url: /proceedings/
   - title: "Conference Board"
