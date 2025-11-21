@@ -4,7 +4,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/firelookoutjournal.png
+  overlay_image: /assets/images/no_business_panorama.jpg
   # cta_label: "University of Idaho Applicants"
   # cta_url: "https://uidaho.co1.qualtrics.com/jfe/form/SV_eLQjthbshmz3bNz"
   # cta2_label: "Washington State University Applicants"
@@ -15,52 +15,53 @@ permalink: "/postcard/"
 
 # Lookout Post Card Submissions
 
-## [cite_start]🖼️ Call for Submissions: 2026 NILC Postcard Exhibition (better title?) [cite: 1]
+## Call for Submissions: 2026 NILC Postcard Exhibition 
 
-[cite_start]You are invited to submit your original artworks to the 2026 NILC Postcard Exhibition (better title?)[cite: 1].
-
+You are invited to submit your original artworks to the 2026 NILC Postcard Exhibition
 ---
 
 ### Key Information
 
-* [cite_start]**Submission Deadline:** ?/?/???? [cite: 2]
-* [cite_start]**Important Dates:** ?/?/????, etc. [cite: 16]
-* [cite_start]**Exhibition Goal:** The reason for this exhibition (and awards?) is to encourage engagement in the conference and therefore lookouts[cite: 18].
-* **Awards:** Awards? [cite_start]People's Choice? [cite: 17]
+* **Important Deadline:** All postcards must be received by no later than March 20, 2026. 
+* **Exhibition Goal:** The reason for this exhibition is to encourage engagement in the conference and lookouts
+* **Awards:** NILC atendees will vote on a first, second, and third place postcard! We will either present (if artist in attendance) or mail small awards (if they are not present). 
 
 ---
 
-### [cite_start]🎨 Submission Guidelines [cite: 3]
+### Submission Guidelines
 
-* [cite_start]**Quantity:** Submit 1 (to 3/) original artwork(s)[cite: 4].
-* **Entry Fee:** Free to registered conference attendees; [cite_start]Small Entry Fee for others? [cite: 4]
-* [cite_start]**Subject Matter:** Artwork subjects should be of, on/from a lookout tower or site[cite: 5].
-* [cite_start]**Medium:** Any 2-D medium is acceptable (photography, watercolor, prints, etc.)[cite: 6].
-* [cite_start]**Display:** Artwork will be displayed at the conference[cite: 6].
-* [cite_start]**Return Policy:** Submissions will not be returned[cite: 7].
+* **Quantity:** Submit 1 to 3 original artwork(s)
+* **Subject Matter:** Artwork subjects should be of, on/from a lookout tower or site
+* **Medium:** Any 2-D medium is acceptable (photography, watercolor, prints, etc.)
+* **Display:** Artwork will be displayed at the conference
+* **Return Policy:** Submissions will not be returned
 
-### 📏 Artwork Specifications
+### Artwork Specifications
 
-* [cite_start]Artwork must measure **4 by 6 inches**[cite: 8].
-* [cite_start]Artwork must be on a **stiff material**, such as matboard or cardstock[cite: 8].
-* [cite_start]Artwork must **not be framed or matted**[cite: 9].
+* Artwork must measure on of the following sizes: **4x6, 5x7, or 6x9 inches**.
+* Artwork must be on a **stiff material**, such as matboard or cardstock.
+* Artwork must **not be framed or matted**.
 
-### ✍️ Required Backside Information
+### Required Backside Information
 
-[cite_start]The following information **should appear on the back of each piece**[cite: 10, 11]:
+The following information **should appear on the back of each piece**:
 
-* [cite_start]Name of artist [cite: 10]
-* [cite_start]Title [cite: 10]
-* [cite_start]Date [cite: 10]
-* [cite_start]Description [cite: 10]
-* [cite_start]Contact information [cite: 10]
+* Name of artist 
+* Title 
+* Date
+* Description
+* Contact information
 
 ---
 
-### 📬 Submission Delivery
+### Submission Delivery
 
-[cite_start]Mail or hand deliver to[cite: 12]:
+Mail or hand deliver to:
 
-* [cite_start]XXX [cite: 13]
-* [cite_start]XXX [cite: 14]
-* [cite_start]XXX [cite: 15]
+* University of Idaho
+  College of Graduate Studies
+  875 Perimeter Drive MS 3017
+  Moscow, Idaho 83844-3017
+
+
+Please direct any and all questions to conference director, Michael Decker at mdecker@uidaho.edu. 
