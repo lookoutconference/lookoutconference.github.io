@@ -122,7 +122,7 @@ $(document).ready(function () {
     midClick: true, // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
   });
 
-  // Add anchors for headings
+  /* Add anchors for headings
   (function () {
     var pageContentElement = document.querySelector(".page__content");
     if (!pageContentElement) return;
@@ -141,7 +141,7 @@ $(document).ready(function () {
           element.appendChild(anchor);
         }
       });
-  })();
+  })();*/
 
   // Add copy button for <pre> blocks
   var copyText = function (text) {
