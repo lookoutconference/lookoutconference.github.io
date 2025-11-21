@@ -4,7 +4,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.1"
-  overlay_image: /assets/images/no_business_panorama.jpg
+  overlay_image: /assets/images/trinity_peak_keeping_watch.jpeg
   # cta_label: "University of Idaho Applicants"
   # cta_url: "https://uidaho.co1.qualtrics.com/jfe/form/SV_eLQjthbshmz3bNz"
   # cta2_label: "Washington State University Applicants"
@@ -34,7 +34,7 @@ You are invited to submit your original artworks to the 2026 NILC Postcard Exhib
 * **Subject Matter:** Artwork subjects should be of, on/from a lookout tower or site
 * **Medium:** Any 2-D medium is acceptable (photography, watercolor, prints, etc.)
 * **Display:** Artwork will be displayed at the conference
-* **Return Policy:** Submissions will not be returned
+* **Return Policy:** All artwork will be kept by conference directors and donated to our university Library special collections as part of the NILC special collections exhibit. 
 
 ### Artwork Specifications
 
