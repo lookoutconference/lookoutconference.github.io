@@ -13,7 +13,7 @@ excerpt: " "
 permalink: "/postcard/"
 ---
 
-# Lookout Post Card Submissions
+# Lookout Post Card Conference
 
 ## Call for Submissions: 2026 NILC Postcard Exhibition 
 
