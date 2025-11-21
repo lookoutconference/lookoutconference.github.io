@@ -24,7 +24,7 @@ You are invited to submit your original artworks to the 2026 NILC Postcard Exhib
 
 * **Important Deadline:** All postcards must be received by no later than March 20, 2026. 
 * **Exhibition Goal:** The reason for this exhibition is to encourage engagement in the conference and lookouts
-* **Awards:** NILC atendees will vote on a first, second, and third place postcard! We will either present (if artist in attendance) or mail small awards (if they are not present). 
+* **Awards:** NILC atendees will vote on a first, second, and third place postcard! We will present (if artist in attendance) or mail small awards (if they are not present). 
 
 ---
 
