@@ -58,10 +58,10 @@ The following information **should appear on the back of each piece**:
 
 Mail or hand deliver to:
 
-* University of Idaho
-  College of Graduate Studies
-  875 Perimeter Drive MS 3017
-  Moscow, Idaho 83844-3017
+* University of Idaho <br>
+  College of Graduate Studies <br>
+  875 Perimeter Drive MS 3017 <br>
+  Moscow, Idaho 83844-3017<br>
 
 
 Please direct any and all questions to conference director, Michael Decker at mdecker@uidaho.edu. 
