@@ -38,7 +38,7 @@ You are invited to submit your original artworks to the 2026 NILC Postcard Exhib
 
 ### Artwork Specifications
 
-* Artwork must measure on of the following sizes: **4x6, 5x7, or 6x9 inches**.
+* Artwork must measure **4x6, 5x7, or 6x9 inches**.
 * Artwork must be on a **stiff material**, such as matboard or cardstock.
 * Artwork must **not be framed or matted**.
 
