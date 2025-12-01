@@ -9,7 +9,7 @@ header:
   # cta_url: "https://uidaho.co1.qualtrics.com/jfe/form/SV_eLQjthbshmz3bNz"
   # cta2_label: "Washington State University Applicants"
   # cta2_url: "https://wsu.co1.qualtrics.com/jfe/form/SV_07ioTAKauWCC2X3"
-excerpt: "Applications for 2026 are open now"
+excerpt: "Apply to present or register to attend, today!"
 permalink: "/participate/"
 ---
 
@@ -55,7 +55,7 @@ The conference offers a **limited number of remote presentations (Zoom)**. Those
 
 ### 2. Attend the Conference
 
-Join us for the full conference experience on **Saturday, April 19th**, where you can engage with the latest research and network with fellow enthusiasts.
+Join us for the full conference experience on **Saturday, April 4th**, where you can engage with the latest research and network with fellow enthusiasts.
 
 #### **Full Conference Access Includes:**
 
