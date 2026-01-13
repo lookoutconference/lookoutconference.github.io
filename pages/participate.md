@@ -40,6 +40,8 @@ We encourage papers and presentations from both **academic and non-academic fiel
 
 #### **Instructions for Submission:**
 
+**Abstracts of your presentation are due by February 1, 2026**
+
 Write a proposal of **no more than 500 words** covering the following three points:
 
 1.  **An Overview:** A clear summary of your proposed presentation or project.
