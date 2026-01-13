@@ -32,11 +32,19 @@ Parking will be included with your registration. A printable pass will be emaile
 
 **The Monarch Motel**
 
-Located at 120 W. 6th Street about 0.5 miles from campus. This option is the closest and most direct accommodations to campus. 
+Located at 120 W. 6th Street about 0.5 miles from campus. This option is the closest and most direct accommodations to campus. **This is locationally the most convenient lodging**
 
 Phone: 208-882-2851
 
 Website: [Monarch Motel](https://www.moscowmonarch.com/)
+
+**Moscow La Quinta Inn**
+
+Located at 185 Warbonnet Drive about 1 mile from campus and a two minute drive from downtown. **We also have a hotel block with a slight discount reserved at this hotel.**
+
+Phone: 208-885-5365
+
+Website: [La Quinta Inn](https://www.wyndhamhotels.com/laquinta/moscow-idaho/la-quinta-moscow-pullman/rooms-rates?brand_id=LQ&checkInDate=4/3/2026&checkOutDate=4/4/2026&useWRPoints=false&children=0&adults=1&rooms=1&loc=ChIJ0WHAIi0hoFQRbK3q5g0V_T4&sessionId=1767037315&corpCode=9989293110)
 
 **Moscow Best Western Inn**
 
